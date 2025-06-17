@@ -10,9 +10,15 @@ A Braille translation program that converts English Braille into Korean.
 2023.07.01 ~ 2023.08.14
 
 ## 👩🏻‍💻 Team Members
-- **김혜원(Hyewon Kim, 20210929)** - 서버 구축, AI 모델 파인튜닝, 점자 학습 화면, 학습 데이터 수집, TTS, 발표 (Server setup, AI model fine-tuning, Braille learning interface, Data collection, TTS, Presentation)
-- **가상은(Sangeun Ka, 20211291)** - 서버 구축, AI 모델 파인튜닝, 점자 퀴즈, 번역화면, ppt제작 (Server setup, AI model fine-tuning, Braille quiz, Translation interface, Keynote preparation)
-- **방기연(Kiyeon Pang, 20211343)** - 서버 구축, AI 모델 파인튜닝, 점자 도서관 지도, 메인 화면, 발표 (Server setup, AI model fine-tuning, Braille library map, Main interface, Presentation)
+- **김혜원(Hyewon Kim, 20210929)** <br/>
+  - 역할: 서버 구축, AI 모델 파인튜닝, 점자 학습 화면, 학습 데이터 수집, TTS, 발표 <br/>
+    Roles: Server setup, AI model fine-tuning, Braille learning interface, Data collection, TTS, Presentation
+- **가상은(Sangeun Ka, 20211291)** <br/>
+  - 역할: 서버 구축, AI 모델 파인튜닝, 점자 퀴즈, 번역화면, ppt제작 <br/>
+    Roles: Server setup, AI model fine-tuning, Braille quiz, Translation interface, Keynote preparation
+- **방기연(Kiyeon Pang, 20211343)** <br/>
+  - 역할: 서버 구축, AI 모델 파인튜닝, 점자 도서관 지도, 메인 화면, 발표 <br/>
+    Roles: Server setup, AI model fine-tuning, Braille library map, Main interface, Presentation
 
 ## ⚙️ Development Environment
 - Android Studio(java)
